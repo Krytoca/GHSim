@@ -1,0 +1,3 @@
+Log for July 23rd 2018
+
+Today I made my design for a Guitar Hero Simulator. I used OOP to organize the code and make it look less messy on the main file. I also used a loop to create notes that run down the length of the strings. I encountered an issue where the notes constantly recreate themselves instead of making one circle at a time. The main thing I will focus on tomorrow will be to find out why the circles constantly redraw themselves without the use of a keyDown function. Most of my design was organized by making multiple classes for the background of the frets, the frets themselves, and the strings that go down the screen to resemble a guitar. 
