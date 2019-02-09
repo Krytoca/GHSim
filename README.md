@@ -48,7 +48,7 @@ Yellow/Orange - I
 Blue/Orange - O
   
 
-3 Note Chords
+3 Note Chords:
   
 
 Green/Red/Yellow - Z
