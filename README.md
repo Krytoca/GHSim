@@ -10,7 +10,8 @@ Small simulator of guitar hero using the tutorial sounds from Guitar Hero 3
   Colors are placed according to how they are in any Guitar Hero game.
   Placed chords onto seperate keybinds because, due to my limited knowledge at the time, coding two keypresses simultaneously in processing is obnoxious.
   
-  Bindings: 
+ 
+ Bindings: 
   
  Green - A
  
@@ -22,6 +23,7 @@ Small simulator of guitar hero using the tutorial sounds from Guitar Hero 3
  
  Orange - G
   
+
 
 2 Note Chords:
   
@@ -47,6 +49,7 @@ Yellow/Orange - I
 
 Blue/Orange - O
   
+
 
 3 Note Chords:
   
