@@ -8,7 +8,7 @@ Small simulator of guitar hero using the tutorial sounds from Guitar Hero 3
   
   Pretty simple to use, press one of the buttons listed below to play the sound. 
   Colors are placed according to how they are in any Guitar Hero game.
-  Placed chords onto seperate keybinds because, due to my limited knowledge at the time, coding two keypresses simultaneously is             obnoxious.
+  Placed chords onto seperate keybinds because, due to my limited knowledge at the time, coding two keypresses simultaneously in processing is obnoxious.
   
   Bindings: 
   
