@@ -12,29 +12,47 @@ Small simulator of guitar hero using the tutorial sounds from Guitar Hero 3
   
   Bindings: 
   
-  Green - A
-  Red - S
-  Yellow - D
-  Blue - F 
-  Orange - G
+ Green - A
+ 
+ Red - S
+ 
+ Yellow - D
+ 
+ Blue - F 
+ 
+ Orange - G
   
-  2 Note Chords:
+
+2 Note Chords:
   
-  Green/Red - Q
-  Green/Yellow - W
-  Green/Blue - E
+
+Green/Red - Q
+
+Green/Yellow - W
+
+Green/Blue - E
   
-  Red/Yellow - R
-  Red/Blue - T
-  Red/Orange - Y
+
+Red/Yellow - R
+
+Red/Blue - T
+
+Red/Orange - Y
   
-  Yellow/Blue - U
-  Yellow/Orange - I
+
+Yellow/Blue - U
+
+Yellow/Orange - I
   
-  Blue/Orange - O
+
+Blue/Orange - O
   
-  3 Note Chords
+
+3 Note Chords
   
-  Green/Red/Yellow - Z
-  Red/Yellow/Blue - X
-  Yellow/Blue/Orange - C
+
+Green/Red/Yellow - Z
+
+Red/Yellow/Blue - X
+
+Yellow/Blue/Orange - C
