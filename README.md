@@ -11,7 +11,7 @@ Small simulator of guitar hero using the tutorial sounds from Guitar Hero 3
   Placed chords onto seperate keybinds because, due to my limited knowledge at the time, coding two keypresses simultaneously in processing is obnoxious.
   
  
- Bindings: 
+# Bindings: 
   
  Green - A
  
@@ -25,7 +25,7 @@ Small simulator of guitar hero using the tutorial sounds from Guitar Hero 3
   
 
 
-2 Note Chords:
+# 2 Note Chords:
   
 
 Green/Red - Q
@@ -51,7 +51,7 @@ Blue/Orange - O
   
 
 
-3 Note Chords:
+# 3 Note Chords:
   
 
 Green/Red/Yellow - Z
